@@ -14,12 +14,12 @@ products:
 - azure-cosmos-db
 - azure-key-vault
 urlFragment: template
-name: Full stack role-based access control application for Azure Container Apps and Azure Comsos DB for NoSQL
-description: Sample full stack role-based access control solution that uses both Azure-based control plane permissions and Azure Cosmos DB for NoSQL-based data plane permissions.
+name: Azure Cosmos DB for NoSQL reference RBAC implementation
+description: Sample full stack role-based access control (RBAC) solution that uses both Azure-based control plane permissions and Azure Cosmos DB for NoSQL-based data plane permissions.
 ---
 <!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->
 
-## Full stack role-based access control application for Azure Container Apps and Azure Comsos DB for NoSQL
+## Full stack role-based access control application for Azure Container Apps, Azure Developer CLI, Data API builder for Azure Databases, and Azure Cosmos DB for NoSQL
 
 ![Diagram of the current location ('Solution') in the sequence of the deployment guide.](media/map.svg)
 
